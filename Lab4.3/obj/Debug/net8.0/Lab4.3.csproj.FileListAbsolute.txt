@@ -1,0 +1,15 @@
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\bin\Debug\net8.0\Lab4.3.exe
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\bin\Debug\net8.0\Lab4.3.deps.json
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\bin\Debug\net8.0\Lab4.3.runtimeconfig.json
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\bin\Debug\net8.0\Lab4.3.dll
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\bin\Debug\net8.0\Lab4.3.pdb
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.AssemblyInfoInputs.cache
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.AssemblyInfo.cs
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.csproj.CoreCompileInputs.cache
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.sourcelink.json
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.dll
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\refint\Lab4.3.dll
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.pdb
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\Lab4.3.genruntimeconfig.cache
+C:\Users\Solomia\Desktop\UNI_LAB\CS_second_year\2 ТСПП\Lab4\Lab4.3\obj\Debug\net8.0\ref\Lab4.3.dll
