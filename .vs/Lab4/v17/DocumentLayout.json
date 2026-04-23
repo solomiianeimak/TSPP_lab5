@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B84DCC93-F9E6-4161-BF88-BE40CF5DE199}|Lab4\\Lab4.1.csproj|c:\\users\\solomia\\desktop\\uni_lab\\cs_second_year\\2 \u0442\u0441\u043F\u043F\\lab4\\lab4\\lab4.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B84DCC93-F9E6-4161-BF88-BE40CF5DE199}|Lab4\\Lab4.1.csproj|solutionrelative:lab4\\lab4.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E365CF-3BD8-488A-B5F2-B953D7C7E9F1}|Lab4.2\\Lab4.2.csproj|c:\\users\\solomia\\desktop\\uni_lab\\cs_second_year\\2 \u0442\u0441\u043F\u043F\\lab4\\lab4.2\\lab4.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E365CF-3BD8-488A-B5F2-B953D7C7E9F1}|Lab4.2\\Lab4.2.csproj|solutionrelative:lab4.2\\lab4.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4.1.cs",
               "ToolTip": "C:\\Users\\Solomia\\Desktop\\UNI_LAB\\CS_second_year\\2 \u0422\u0421\u041F\u041F\\Lab4\\Lab4\\Lab4.1.cs",
               "RelativeToolTip": "Lab4\\Lab4.1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T17:00:24.925Z",
+              "WhenOpened": "2026-04-23T17:08:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab4.2.cs",
+              "DocumentMoniker": "C:\\Users\\Solomia\\Desktop\\UNI_LAB\\CS_second_year\\2 \u0422\u0421\u041F\u041F\\Lab4\\Lab4.2\\Lab4.2.cs",
+              "RelativeDocumentMoniker": "Lab4.2\\Lab4.2.cs",
+              "ToolTip": "C:\\Users\\Solomia\\Desktop\\UNI_LAB\\CS_second_year\\2 \u0422\u0421\u041F\u041F\\Lab4\\Lab4.2\\Lab4.2.cs",
+              "RelativeToolTip": "Lab4.2\\Lab4.2.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:07:57.737Z",
               "EditorCaption": ""
             }
           ]
